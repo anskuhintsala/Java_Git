@@ -4,6 +4,7 @@ public class App {
     int age = 40;
 
 //Tarkistetaan, että ikä ei ole negatiivinen
+//Tarkistetaan, onko henkilö aikuinen
 
 
 
