@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-    int age = 50;
+    int age = 40;
 
 //Tarkistetaan, että ikä ei ole negatiivinen
 
@@ -10,7 +10,7 @@ public class App {
 if (age > 0 && age < 17) {
 
 System.out.println("Olet alaikäinen");
-if (age >= 16) {
+if (age >= 15) {
     System.out.println("Saat ajaa mopoa");
 if (age >= 16) {
     System.out.println("Saat ajaa kevaria");
